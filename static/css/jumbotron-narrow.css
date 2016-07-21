@@ -199,12 +199,16 @@ h2 {
 
 input {
   width: 300px;
+  color: black;
+}
+
+textarea {
+  color: black;
 }
 .text-left {
   /*color: white;*/
   color: #a39891;
 }
-
 .submit {
   color: black;
   width: 80px;
